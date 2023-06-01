@@ -13,19 +13,17 @@
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  
  <img src="https://profile-counter.glitch.me/ALAMIN-156/count.svg" />
-<a href="https://api.daily.dev/get?r=ALAMIN-156"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
+<a href="https://api.daily.dev/get?r=MRYADA1"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
  
 </p>
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALAMIN-156&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRYADA1&theme=vue)
  
 <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
- 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
- 
-<a href="https://github.com/ALAMIN-156"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ALAMIN-156&theme=monokai"></a>
+
+
  
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
@@ -50,7 +48,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 🔰 TELEGRAM Channel :- [ALAMIN ANCHAR](https://t.me/MR_YADA_I) 
+- 🔰 TELEGRAM Channel :- [MY.YADA](https://t.me/MR_YADA_I) 
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -58,7 +56,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 🔰 𝐆𝐈𝐓𝐇𝐔𝐁 :- [ALAMIN-156](https://github.com/MRYADA1) 
+- 🔰 𝐆𝐈𝐓𝐇𝐔𝐁 :- [MRYADA1](https://github.com/MRYADA1) 
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
