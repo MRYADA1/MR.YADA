@@ -62,12 +62,12 @@
  
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/ALAMIN-156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ALAMIN-156&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="ALAMIN ANCHAR's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/ALAMIN-156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALAMIN-156&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/ALAMIN-156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ALAMIN-156&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MRYADA1's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/ALAMIN-156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRYADA1&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ALAMIN-156&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="ALAMIN's GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=MRYADA1&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="MRYADA's GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
@@ -75,7 +75,7 @@
  
 ## PROFILE VISITORS
  
-<img src="https://profile-counter.glitch.me/ALAMIN-156/count.svg" />
+<img src="https://profile-counter.glitch.me/MRYADA1/count.svg" />
 <a href="https://api.daily.dev/get?r=ALAMIN-156"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
  
 ![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
