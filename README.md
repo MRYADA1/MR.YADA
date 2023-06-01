@@ -12,7 +12,7 @@
  
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  
- <img src="https://profile-counter.glitch.me/ALAMIN-156/count.svg" />
+ <img src="https://profile-counter.glitch.me/MRYADA1/count.svg" />
 <a href="https://api.daily.dev/get?r=MRYADA1"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
  
 </p>
@@ -62,8 +62,8 @@
  
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/ALAMIN-156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ALAMIN-156&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MRYADA1's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/ALAMIN-156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRYADA1&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/MRYADA1/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MRYADA1&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MRYADA1's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/MRYADA1/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRYADA1&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
